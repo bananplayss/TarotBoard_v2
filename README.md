@@ -1,5 +1,6 @@
 # TarotBoard_v2
- A card game based on tarot and poker for over 4 players (local)
+A card game based on tarot and poker for over 4 players (local)
+This game was made for HauntedPasta1 as a comission project.
 
  > [!NOTE]
 > TarotBoard may have bugs, make sure you report them to bananplaysshu on Discord after testing! Thank you!
@@ -15,3 +16,19 @@ Double Right Click = Rotate to upright position
 
 Everything is Drag-able but The Background Image :D
 ```
+
+# Attributions:
+
+Background Image - https://www.freepik.com/free-photo/perfect-green-grass_902965.htm#fromView=search&page=1&position=4&uuid=d990dedb-0fea-400d-8b32-55c7cc5d4d3d
+
+Card Back Image - https://in.pinterest.com/pin/388857749087799765/
+
+Card Front Image - https://pngtree.com/freebackground/royal-golden-blue-mandala-art-background-with-border-invitation-card-wedding-islamic-arabic-geometric-pattern-diwali_1596347.html
+
+Poker Chip Images - Mysticpasta1 and Waterpicker using GIMP
+
+Code and Ideas - ChatGPT and Mysticpasta1
+
+JXL Loader Code - Waterpicker
+
+# All rights reserved for HauntedPasta1
