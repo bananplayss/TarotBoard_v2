@@ -27,8 +27,12 @@ Card Front Image - https://pngtree.com/freebackground/royal-golden-blue-mandala-
 
 Poker Chip Images - Mysticpasta1 and Waterpicker using GIMP
 
-Code and Ideas - ChatGPT and Mysticpasta1
+Coded and maintaned by bananplaysshu
+
+Ideas - HauntedPasta1
 
 JXL Loader Code - Waterpicker
+
+UI design - bananplaysshu
 
 # All rights reserved for HauntedPasta1
