@@ -2,9 +2,10 @@
 A card game based on tarot and poker for over 4 players (local)
 This game was made for HauntedPasta1 as a comission project.
 
-<img width="340" height="196" alt="image" src="https://github.com/user-attachments/assets/67c2416f-467a-40dc-9b98-3ccb6ce23094" />
-<img width="340" height="193" alt="image" src="https://github.com/user-attachments/assets/521289bb-0d7c-445b-9cb2-927a4b5c9eb8" />
-<img width="340" height="197" alt="image" src="https://github.com/user-attachments/assets/23edea76-552b-41a4-9217-7a63afbb6bc3" />
+<img width="347" height="195" alt="image" src="https://github.com/user-attachments/assets/69cfd388-a2a7-4960-84ca-f03bfa50c319" />
+<img width="347" height="196" alt="image" src="https://github.com/user-attachments/assets/67c2416f-467a-40dc-9b98-3ccb6ce23094" />
+<img width="347" height="193" alt="image" src="https://github.com/user-attachments/assets/521289bb-0d7c-445b-9cb2-927a4b5c9eb8" />
+<img width="347" height="197" alt="image" src="https://github.com/user-attachments/assets/23edea76-552b-41a4-9217-7a63afbb6bc3" />
 
 
 ### [Find this at my itch.io page](https://bananplayss.itch.io/tarotboard)
