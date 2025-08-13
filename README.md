@@ -1,9 +1,11 @@
 # TarotBoard_v2
 A card game based on tarot and poker for over 4 players (local)
 This game was made for HauntedPasta1 as a comission project.
+[Find this at my itch page](https://bananplayss.itch.io/tarotboard)
 
  > [!NOTE]
 > TarotBoard may have bugs, make sure you report them to bananplaysshu on Discord after testing! Thank you!
+> Due to this being a commission, I could only include the built project.
 
 # Controls:
 ```
